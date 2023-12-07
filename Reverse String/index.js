@@ -1,1 +1,2 @@
 const reverseString = (str) => {};
+reverseString("");
