@@ -1,1 +1,2 @@
-const sumOfEvenNumbers = () => {};
+const sumOfEvenNumbers = (num) => {};
+sumOfEvenNumbers(1);
