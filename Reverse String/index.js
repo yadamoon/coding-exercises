@@ -1,2 +1,4 @@
-const reverseString = (str) => {};
+const reverseString = (str) => {
+  let localVariable = String.split("").reverse().join("");
+};
 reverseString("");
