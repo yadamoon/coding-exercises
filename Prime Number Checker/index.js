@@ -1,1 +1,1 @@
-const isPrime = () => {};
+const isPrime = (num) => {};
