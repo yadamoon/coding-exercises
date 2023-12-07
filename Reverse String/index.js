@@ -1,4 +1,5 @@
 const reverseString = (str) => {
-  let localVariable = String.split("").reverse().join("");
+  let localVariable = str.split("").reverse().join("");
+  console.log(localVariable);
 };
-reverseString("");
+reverseString("hello");
